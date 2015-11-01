@@ -1,0 +1,7 @@
+body{
+  background: whitesmoke;
+}
+.with.no.border.radius{
+  border-radius: 0;
+  margin-bottom: 50px;
+}
